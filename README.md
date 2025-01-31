@@ -1,4 +1,4 @@
-# 🚀 Narzędzie Optymalizacji Systemu Windows | System Optimization Tool 🚀
+# 🚀 Narzędzie Optymalizacji Systemu Windows | Windows System Optimization Tool 🚀
 
 ## Opis / Description
 
@@ -8,57 +8,49 @@ This tool is designed to optimize the Windows operating system. The script autom
 
 ## Funkcje / Features
 
-- 🧹 Usuwanie plików tymczasowych / Deleting temporary files
-- ⚙️ Wyłączanie zbędnych usług systemowych / Disabling unnecessary system services
-- 💾 Optymalizacja dysku / Disk optimization
-- 🔄 Czyszczenie pamięci RAM / Clearing RAM
-- 🌍 Optymalizacja ustawień sieciowych / Network optimization
-- ⚡ Optymalizacja autostartu / Startup optimization
-- 🛡️ Tworzenie kopii zapasowej rejestru / Creating a registry backup
-- 🎯 Możliwość uruchomienia skanera systemu (MRT) / Option to run the system scanner (MRT)
+- 🧹 **Usuwanie plików tymczasowych** / Deleting temporary files  
+- ⚙️ **Wyłączanie zbędnych usług systemowych** / Disabling unnecessary system services  
+- 💾 **Optymalizacja dysku** / Disk optimization  
+- 🔄 **Czyszczenie pamięci RAM** / Clearing RAM  
+- 🌍 **Optymalizacja ustawień sieciowych** / Network optimization  
+- ⚡ **Optymalizacja autostartu** / Startup optimization  
+- 🛡️ **Tworzenie kopii zapasowej rejestru** / Creating a registry backup  
+- 🎯 **Uruchamianie skanera systemu (MRT)** / Running the system scanner (MRT)  
 
-## Instrukcja użycia / How to use
+## Instrukcja użycia / How to Use
 
-1. Pobierz lub sklonuj repozytorium.
-2. Uruchom plik `optimize_system.bat`.
-3. Wybierz język (Polski lub Angielski).
-4. Potwierdź działania, które chcesz wykonać (np. usuwanie plików tymczasowych, optymalizacja dysku).
-5. Po zakończeniu optymalizacji skrypt zapyta, czy chcesz uruchomić narzędzie do skanowania systemu (MRT).
-6. Po zakończeniu procesów, skrypt zakończy działanie.
+1. **Pobierz lub sklonuj repozytorium**  
+   - 📥 *Pobierz ZIP*: [Kliknij tutaj](https://github.com/TechAdrianPro/System-Optimizer-Tool/archive/refs/heads/main.zip)  
+   - 🔧 *Sklonuj przez Git*:  
+     ```bash
+     git clone https://github.com/TechAdrianPro/System-Optimizer-Tool.git
+     ```
 
-1. Download or clone the repository.
-2. Run the `optimize_system.bat` file.
-3. Choose the language (Polish or English).
-4. Confirm the actions you want to perform (e.g., deleting temporary files, optimizing the disk).
-5. After completing the optimization, the script will ask if you want to run the system scanner (MRT).
-6. After completing the processes, the script will exit.
+2. **Uruchom plik `optimize_system.bat` jako administrator** (kliknij prawym przyciskiem → "Uruchom jako administrator").  
 
-## Wymagania / Requirements
+3. **Wybierz język** (Polski/Angielski).  
 
-- Windows 7 i nowsze / Windows 7 or newer
-- Administrator privileges for some actions (e.g., disabling services, registry modifications)
-- Internet connection for downloading external tools (if needed)
+4. **Zatwierdź wybrane akcje** (np. usuwanie plików tymczasowych).  
 
-## Jak skorzystać z repozytorium / How to use the repository
+5. **Po zakończeniu** skrypt zapyta, czy uruchomić narzędzie MRT.  
 
-1. Pobierz plik ZIP lub sklonuj repozytorium:
-    - ZIP: Kliknij "Code" i wybierz "Download ZIP".
-    - Git: `git clone https://github.com/TwojeKonto/nazwa-repozytorium.git`
-    
-2. Uruchom plik `optimize_system.bat` po uprzednim zapewnieniu odpowiednich uprawnień administratora.
-
-1. Download the ZIP file or clone the repository:
-    - ZIP: Click "Code" and select "Download ZIP".
-    - Git: `git clone https://github.com/YourUsername/repository-name.git`
-
-2. Run the `optimize_system.bat` file after ensuring administrator privileges.
-
-## Licencja / License
-
-Projekt jest udostępniony na licencji MIT.
-
-This project is licensed under the MIT License.
+6. **Zakończ proces** po wykonaniu wszystkich operacji.  
 
 ---
 
-🎉 Dziękujemy za używanie naszego narzędzia! / Thank you for using our tool!
+## Wymagania / Requirements
+
+- 🖥️ System: **Windows 7 lub nowszy** / Windows 7 or newer  
+- 🔑 Uprawnienia: **Konta administratora** / Administrator account  
+- 🌐 Internet: **Wymagany do pobrania narzędzi** / Required for tool downloads  
+
+## Jak współtworzyć? / How to Contribute?
+📌 Zgłaszaj problemy i propozycje przez [Issues](https://github.com/TechAdrianPro/System-Optimizer-Tool/issues)  
+🛠️ Utwórz [Pull Request](https://github.com/TechAdrianPro/System-Optimizer-Tool/pulls) z poprawkami  
+
+## Licencja / License  
+📜 **MIT License** - Szczegóły w pliku [LICENSE](https://github.com/TechAdrianPro/System-Optimizer-Tool/blob/main/LICENSE).  
+
+---
+
+🎉 **Dziękujemy za używanie naszego narzędzia!** / **Thank you for using our tool!**
